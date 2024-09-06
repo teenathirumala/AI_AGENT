@@ -1,1 +1,12 @@
 # AI_AGENT
+/assignment
+│
+├── Data_processing.py       # Handles data ingestion and cleaning
+├── Analysis_engine.py       # Implements analysis using machine learning algorithms
+├── Report_generator.py      # Generates reports with visualizations and summary
+├── User_interface.py        # Command-line interface and NLP handling
+├── Testing.py               # Unit tests for all modules
+├── requirements.txt         # Lists all dependencies (external libraries)
+└── main.py                  # Entry point to run the AI employee
+#run 'python main.py' in cmd prompt or your terminal to start AI employee
+#run 'python testing.py' to run the tests
