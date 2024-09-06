@@ -1,0 +1,6 @@
+# listing all dependencies(external libraries)
+scikit-learn
+matplotlib
+seaborn
+pandas
+argparse
